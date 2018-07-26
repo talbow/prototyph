@@ -1,0 +1,54 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualMachines_azurestackvm_name": {
+            "value": null
+        },
+        "networkInterfaces_azurestackvm762_name": {
+            "value": null
+        },
+        "networkInterfaces_azurestackvm998_name": {
+            "value": null
+        },
+        "publicIPAddresses_azureStackVm_ip_name": {
+            "value": null
+        },
+        "virtualNetworks_azureStackRcg_vnet_name": {
+            "value": null
+        },
+        "publicIPAddresses_azurestackvmip337_name": {
+            "value": null
+        },
+        "storageAccounts_azurestackrcgdiag908_name": {
+            "value": null
+        },
+        "networkSecurityGroups_azureStackVm_nsg_name": {
+            "value": null
+        },
+        "schedules_shutdown_computevm_azurestackvm_name": {
+            "value": null
+        },
+        "subnets_default_name": {
+            "value": null
+        },
+        "securityRules_SSH_name": {
+            "value": null
+        },
+        "securityRules_RDP_name": {
+            "value": null
+        },
+        "securityRules_HTTP_name": {
+            "value": null
+        },
+        "securityRules_HTTPS_name": {
+            "value": null
+        },
+        "disks_azureStackVm_OsDisk_1_bf71815b7ef046b381f33d41af16e86d_name": {
+            "value": null
+        },
+        "virtualMachines_azurestackvm_id": {
+            "value": null
+        }
+    }
+}
