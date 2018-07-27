@@ -21,13 +21,13 @@
             "value": "new"
         },
         "publicIPResourceGroup": {
-            "value": "BnARG"
+            "value": "AzureStackRcg"
         },
         "storageAccountType": {
             "value": "Premium_LRS"
         },
         "vmName": {
-            "value": "jenkinsBnA"
+            "value": "jenkinsAzureStack"
         },
         "vmSize": {
             "value": "Standard_DS2_v2"
