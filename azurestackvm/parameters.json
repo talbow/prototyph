@@ -1,0 +1,54 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualMachines_azurestackvm03_name": {
+            "value": "azurestackvm03"
+        },
+        "networkInterfaces_azurestackvm03762_name": {
+            "value": "azurestackvm03762"
+        },
+        "networkInterfaces_azurestackvm03998_name": {
+            "value": "azurestackvm03998"
+        },
+        "publicIPAddresses_azurestackvm03_ip_name": {
+            "value": "azurestackvm03-ip"
+        },
+        "virtualNetworks_azureStackRcg_vnet_name": {
+            "value": "azureStackRcg-vnet"
+        },
+        "publicIPAddresses_azurestackvm03ip337_name": {
+            "value": "azurestackvm03ip337"
+        },
+        "storageAccounts_azurestackrcgdiag908_name": {
+            "value": "azurestackrcgdiag908"
+        },
+        "networkSecurityGroups_azurestackvm03_nsg_name": {
+            "value": "azurestackvm03-nsg"
+        },
+        "schedules_shutdown_computevm_azurestackvm03_name": {
+            "value": "shutdown-computevm-azurestackvm03"
+        },
+        "subnets_default_name": {
+            "value": "default"
+        },
+        "securityRules_SSH_name": {
+            "value": "SSH"
+        },
+        "securityRules_RDP_name": {
+            "value": "RDP"
+        },
+        "securityRules_HTTP_name": {
+            "value": "HTTP"
+        },
+        "securityRules_HTTPS_name": {
+            "value": "HTTPS"
+        },
+        "disks_azurestackvm03_OsDisk_1_bf71815b7ef046b381f33d41af16e86d_name": {
+            "value": "azurestackvm03_OsDisk_1_bf71815b7ef046b381f33d41af16e86d"
+        },
+        "virtualMachines_azurestackvm03_id": {
+            "value": "/subscriptions/e6fcea0b-3763-447d-bc49-b568f6716972/resourceGroups/azureStackRcg/providers/Microsoft.Compute/disks/azurestackvm03_OsDisk_1_7bacf9f20715479aac9eb7e93f8d6e42"
+        }
+    }
+}
